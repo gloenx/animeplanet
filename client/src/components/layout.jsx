@@ -164,7 +164,7 @@ function Layout({ window, children }) {
     <div>
       <div>
         <Typography variant="h5" className={classes.title}>
-          ANIMEWORLD-Z
+          Anime Planet's
         </Typography>
       </div>
       <Divider />
